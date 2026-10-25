@@ -4,4 +4,3 @@ mediapipe
 streamlit-webrtc
 av
 streamlit-autorefresh
-import pyautogui
